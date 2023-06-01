@@ -1,0 +1,12 @@
+numpy
+pandas
+streamlit
+pickle5
+scikit-learn
+pyrebase4
+plotly-express
+openpyxl
+matplotlib
+firebase_admin
+selenium
+tk
